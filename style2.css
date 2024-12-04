@@ -1,0 +1,70 @@
+
+nav a {color: #2e4a21; /* dark green */
+       padding: 10px 15px; /* Padding around links */}
+
+nav a:hover {color: #a3d8a3; /* when you hover it goes light green */}
+
+h1 {background-color: #2e4a21; /* Deep green */
+    color: #eaf4e6;  /*green */
+    line-height: 1.8;
+    font-family: 'Georgia', serif;
+    text-shadow: 2px 2px 3px #b2d8b0; /* Shadow in green */
+    padding: 15px;
+    text-align: left;
+    border-radius: 8px; /* Soft rounded corners for modern touch */}
+
+h2 
+    {line-height: 1.8;
+    font-family: 'Georgia', serif;
+    text-shadow: 2px 2px 3px #b2d8b0; /* Shadow in green */
+    padding: 15px;
+    text-align: left;
+    border-radius: 8px; /* Soft rounded corners for modern touch */}
+
+h3 
+    {line-height: 1.8;
+    font-family: 'Georgia', serif;
+    text-shadow: 2px 2px 3px #b2d8b0; /* Shadow in green */
+    padding: 15px;
+    text-align: center;
+    border-radius: 8px; /* Soft rounded corners for modern touch */}
+    
+
+
+body {background-color: #eaf4e6; /* Soft green (nature-inspired) */
+      color: #2e4a21;  /* Deep green for text */
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;}
+
+
+p {font-size: 1em;
+    text-indent: 2em;
+    margin: 2px 0;
+    color: #2e4a21;}
+
+
+footer {color: #6b8f71; /* Muted green */
+       font-size: 0.75em;
+       font-style: Georgia;
+       text-align: center;
+       padding: 20px;
+       background-color: #eaf4e6;
+     border-top: 1px solid #d0e2cc;}
+
+
+.PicRight{
+float:right;
+margin-left:20px;}
+
+.PicLeft{
+float:left;
+margin-left:20px;}
+
+
+
+
+
+
+
